@@ -1,4 +1,4 @@
-# Brain tumor detection using CNN
+# Brain tumor detection using unet
 Brain Tumor Classification Dataset
 
 Overview
